@@ -1,0 +1,997 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "5012a07f9cc522168ea6781aa4640411e0d0e9ca070f9aef4b064e9bec2272ae",
+    "bytes": 162
+  },
+  {
+    "path": "Build.ps1",
+    "sha256": "7a81920fd938d9035cd9b432a31e41569bd689fb8dbff6fe0fc1cfed6767d373",
+    "bytes": 2107
+  },
+  {
+    "path": "client/ASSET_LICENSE.txt",
+    "sha256": "e123e54e79808a4a5f01e1d00cdf6144e31e6b8b4976b913f451bee656a344c1",
+    "bytes": 270
+  },
+  {
+    "path": "client/FONT_LICENSE_OFL.txt",
+    "sha256": "b4e90e1fda4d4987c4f1bceeef85cbbc3ae3e7202ac8b14ae6f3ef2613aa6006",
+    "bytes": 4248
+  },
+  {
+    "path": "client/LZ4_LICENSE.txt",
+    "sha256": "07059c78169a71c094b9c1bd3aa97747c660c37cc1baa36550757772ac9597dc",
+    "bytes": 1090
+  },
+  {
+    "path": "client/src/DiscordChatHUD/AppInstance.cs",
+    "sha256": "082d9d765f84ea0d2fc84c60cd5648dd2cd171d0ab6bda31b58963e56c1b997c",
+    "bytes": 1072
+  },
+  {
+    "path": "client/src/DiscordChatHUD/AppPaths.cs",
+    "sha256": "03943a96d966c08f24acb9eb76283c49d0f80a3c181d9bfd49f84e58ea623cd7",
+    "bytes": 3489
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Assets/app.png",
+    "sha256": "9a35d44cb83b59ca9889432c2567452d34d4d9fd3e66e61585334769459c55be",
+    "bytes": 1066
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Assets/BusinessIcons/cash.png",
+    "sha256": "473d7ffcc82934887c863bbea9a54b7927b212473025c377430fe006263f2797",
+    "bytes": 1131
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Assets/BusinessIcons/cocaine.png",
+    "sha256": "062f31bdf4d24ea3a58c117926d50d8a55ce44c6bae60d6bf6ba5f8fd9a45b7d",
+    "bytes": 1076
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Assets/BusinessIcons/documents.png",
+    "sha256": "e6a9c460bb76b93d5fb407920ab2bda92c13252bd1382b4147df5038eb120582",
+    "bytes": 1093
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Assets/BusinessIcons/meth.png",
+    "sha256": "15643e90c174f949b4b9be5103c114bbc8733a29c7a6101a2d2d12f26da246cf",
+    "bytes": 1268
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Assets/BusinessIcons/nightclub.png",
+    "sha256": "0695b5b8d2bbe1af4d03f2495623d74373ff853f572f53a99c73e8821de93138",
+    "bytes": 1162
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Assets/BusinessIcons/weed.png",
+    "sha256": "0b4a3643d7b07d5ad0573f6bf5bd7126b99a05236e92fb7e4f754fa106c3bfa7",
+    "bytes": 944
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Assets/config.json",
+    "sha256": "2fbbd35adcf29a21013461ba32cfb9ad1ba8c3ae9fbccb016ddda39329dc68e7",
+    "bytes": 823
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Assets/gtao_hud_icon.ico",
+    "sha256": "1286062f9825abc7dbc971beed93bda5d1a6733946452501ce4bc10e859545d0",
+    "bytes": 1088
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Assets/NotoSansKR-Medium.otf",
+    "sha256": "227e6c50312c30cf253addf7b3541564065ff19008c020b4fb74bc348bae5e16",
+    "bytes": 2230732
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Assets/NotoSansKR-Medium.ttf",
+    "sha256": "60ef26f66efc643f1e6bf269619f6d3d296a6984259e32b3ff3cbc69951ba39e",
+    "bytes": 4949532
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Assets/radar_acid_lab.png",
+    "sha256": "ea6cfb8fa6ef541ba780f02d89661f9c5450b536ed5ca23e4b41b5d6557557a6",
+    "bytes": 1143
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Assets/radar_hangar.png",
+    "sha256": "7b080f385d7f5904ddc42a6f124212871caaf917c7a226a58ff2d792c8840356",
+    "bytes": 1007
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Assets/radar_property_bunker.png",
+    "sha256": "8a61d9f1d37a7745056fc7eb2cc747cdcade97f7966e7c3ace9573760194c03c",
+    "bytes": 1099
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Assets/radar_warehouse.png",
+    "sha256": "f8a5d4ef801040a86c856c5aa088ba383ab373e8d2e703e8bd6b044fd7f23bbf",
+    "bytes": 1363
+  },
+  {
+    "path": "client/src/DiscordChatHUD/DiscordChatHUD.csproj",
+    "sha256": "1ebbbc8482481d282379d1b6fcc7a94b71795928bf9893622381803de25f066e",
+    "bytes": 5328
+  },
+  {
+    "path": "client/src/DiscordChatHUD/GlobalUsings.cs",
+    "sha256": "12158f73dd849352c694dfcf9e30706c5f66d45aaf395a5fb2f08160de3f846c",
+    "bytes": 66
+  },
+  {
+    "path": "client/src/DiscordChatHUD/HotkeyParser.cs",
+    "sha256": "282394031236afd34120d7dcca0011058c81f1a5c6498f06720cb1cfd4d03b58",
+    "bytes": 3833
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Interop/NativeMethods.cs",
+    "sha256": "1ce0334b1fd37cb520ffebf76daa806e2f2751bba668a9fe29639aeeac0aa78c",
+    "bytes": 11362
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Logging/AppLog.cs",
+    "sha256": "23e202ff3dae14c87670b536168dcac5dad61aafae5aa855cb451c0d0dec47a4",
+    "bytes": 1145
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Models/BusinessCharacterProfile.cs",
+    "sha256": "18a1ee3ed5deca76cafc1a5abff22b42bb1eb79914666ba3aa1c7d038ba66593",
+    "bytes": 2779
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Models/BusinessSupplyCalculator.cs",
+    "sha256": "88863a5477ab3c5d105f9e0daf0f713e361239aee5ed46792042506ae67b6635",
+    "bytes": 22050
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Models/BusinessSupplyCatalog.cs",
+    "sha256": "05f59ad752808f59ac95acd435ea8cb9ef3a4ab8159e8050569ea3c982747d4a",
+    "bytes": 7843
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Models/BusinessSupplyEntry.cs",
+    "sha256": "85ac9ace6f74f7a8a4d46ce07f3c92aa7a7d71ffbad8894b25111afbe614cd2b",
+    "bytes": 7687
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Models/ChannelPreset.cs",
+    "sha256": "4ab721dbae6ea7ac1dbfb582307c7b55ed9ff87cc291132ee55f29c881e88064",
+    "bytes": 369
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Models/ChatMessage.cs",
+    "sha256": "471cdb3823386126baecd9d4252e56a88ffd0b30210dfd8b36d87977a65d51fa",
+    "bytes": 4204
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Models/GtaSessionPresence.cs",
+    "sha256": "4a823f90dfdeeb483b764a937eccc70084bc45048c6039ef068ecfe8277fcdfb",
+    "bytes": 4012
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Models/HudConfig.BusinessCharacters.cs",
+    "sha256": "b79b73bd4252f5d4f49ad77d20a0782e52b863739b862b4db8a14c5a165feaa2",
+    "bytes": 6690
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Models/HudConfig.cs",
+    "sha256": "cf8823d887343a1ed8614f2941cc9a57368de10351138962a426ee7e7998b2a8",
+    "bytes": 10979
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Models/HudConfig.Normalize.cs",
+    "sha256": "e02e2db435136cb6b57403bbe84204ac4565834b7eecac6657e3a2dc1432895b",
+    "bytes": 14573
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Models/HudLayoutPreset.cs",
+    "sha256": "acc62da2a83cb5161d101a0752881c842620060cd3d4f5f99960d6bff852b1a7",
+    "bytes": 3867
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Models/NightclubSafeCalculator.cs",
+    "sha256": "4d846ef342c3baa8599f596058855bd29069491758d9ce43b2ee981b1e071118",
+    "bytes": 3759
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Models/NightclubSafeState.cs",
+    "sha256": "6604d6785931d51542655a56b7ba511214222d2ddd40913af0e01ba09e05caa0",
+    "bytes": 1946
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Models/RemoteStaffTimerEntry.cs",
+    "sha256": "982463f075e262fa913bb2e35a84ac9e0bd0a4df81bb118d6f2451626e02fc1e",
+    "bytes": 1632
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Models/TwemojiAsset.cs",
+    "sha256": "80c96bc637facafb1cc11d5b4fae6f9e43e7d34f59f37694bf8f37616e2e1cc9",
+    "bytes": 2496
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Program.cs",
+    "sha256": "e96badce96fdf619cf3c83942d6de889b0a39b0a2b796ad1d6de92e1e85a2cd4",
+    "bytes": 8297
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Properties/AssemblyInfo.cs",
+    "sha256": "690cd0b4a72a41f72eb544cf1324913fed33719744b1e58491e2c6392532c24d",
+    "bytes": 337
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Rendering/HudRenderer.Animation.cs",
+    "sha256": "004033bbb3de74e300075955f0bca15c6bcbbf42d01e74a4a2f93a3eeca03e40",
+    "bytes": 16413
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Rendering/HudRenderer.Business.cs",
+    "sha256": "e94b81c55bd10d6d5f50c57cbd8c54411fc73260ac968171ed1a062d2b53853f",
+    "bytes": 29041
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Rendering/HudRenderer.Chrome.cs",
+    "sha256": "e759bfe3baf56f0ac22103c1172213076b05f611a4e2e339caf3413fac0661a2",
+    "bytes": 7360
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Rendering/HudRenderer.cs",
+    "sha256": "088aa18f7c51f9caff75652ae2409e06f895e3a032a9a70de54bd83ba1fbdb9c",
+    "bytes": 32614
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Rendering/HudRenderer.Drawing.cs",
+    "sha256": "386e509af79ee51b1372c482e28cec794b03d7bf40c4fc148268b06f0f289019",
+    "bytes": 4660
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Rendering/HudRenderer.Media.cs",
+    "sha256": "6853a153e98210a9bc64226166caded741f136bc769605ec79425e541052e4c2",
+    "bytes": 18697
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Rendering/HudRenderer.Messages.cs",
+    "sha256": "d7bfa6d8e0731f0cc40555629808cc78241e3d66bf6cb63a42b22706c76344da",
+    "bytes": 56616
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Rendering/HudRenderer.Sale.cs",
+    "sha256": "3dfaa867d003637afdc3390587eeab88e66c7166b5b56d28171224e9df890655",
+    "bytes": 15736
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Rendering/HudRenderer.Types.cs",
+    "sha256": "7a8a515d597b486ba08a066db6b960354d2ef8eb7c66f04cbfe90959d7fd1e23",
+    "bytes": 9140
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Rendering/HudTextCache.cs",
+    "sha256": "5bf9fd1ddad1cc973b147a8f31b775a5465e6e1220224f7b8f43461b619f3678",
+    "bytes": 7740
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Rendering/LayeredBitmapCopy.cs",
+    "sha256": "065a0b8ceaa7e2272e388807b067cc696d6e95f29f798eb73168387ba5faa9da",
+    "bytes": 1235
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Rendering/RenderPresentationPolicy.cs",
+    "sha256": "26e0513b7659d9d88a01926a4f6d3278b9bbb5a14185fb5440f257eee3044957",
+    "bytes": 676
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/AccountProfile.cs",
+    "sha256": "a811c556ee5d5d06d20087442a9d33fbb308c2f063abd4f1a613f913a773c816",
+    "bytes": 7322
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/AccountSettingsSync.cs",
+    "sha256": "031fc44efccc64c72eb8b7502e3d8acc38724178ccaf43356ca2ff8e5bd24400",
+    "bytes": 17867
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/AnimationClock.cs",
+    "sha256": "da8923acdcdac074ee392b082a95487d8105537124b7f0e788f94598cd8c3f11",
+    "bytes": 533
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/AnimationDeadlineTimer.cs",
+    "sha256": "c5b725deb453dfce274b982b7391f70a27c899b6186013f6d1883dc024e94183",
+    "bytes": 3877
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/AnimationFrameCodec.cs",
+    "sha256": "db999528139cfcb58a4ee6264cf801800c81dfae176bb2962a319d98e442dac0",
+    "bytes": 8291
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/ApprovedLaunch.cs",
+    "sha256": "c950aa4375a4f6518661a510af2e1e48ab335880f262010ea1938b00abb22b3b",
+    "bytes": 980
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/AppUpdate.cs",
+    "sha256": "580416d80b40dbc1984501df0bd920e2982a96d2cce872d31e8af06acaea3f33",
+    "bytes": 20473
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/AutomaticOnlineTracker.cs",
+    "sha256": "ada898237c801887142c870b737b699d2c6503ff4890fcc94edf2b89624fe3b6",
+    "bytes": 1415
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/BusinessAlertPolicy.cs",
+    "sha256": "06d7812e42c34267f14265375d5d2c29d51a788edddb1c6c2c8ed26cc5e6906f",
+    "bytes": 4930
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/BusinessHotkeyActions.cs",
+    "sha256": "bb450167d97912b17ac9395e20afc6025d20b553c37e9cb61e2e358768368586",
+    "bytes": 2687
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/BusinessOcrWarmup.cs",
+    "sha256": "c620736c9d1a1f6c8c616335026cc16a4ba3c57120a9a5d99e8432e795a4fd63",
+    "bytes": 2372
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/BusinessProgressClock.cs",
+    "sha256": "1a4141e0fa947ebe5f065e6205bcd300076be129e27493c6b15db445acd6ecb6",
+    "bytes": 1086
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/BusinessReadCoordinator.cs",
+    "sha256": "0c533f6bae02bed43e71ed5fe5f5015042ae1b0f57b80d5f721bcaee198874d4",
+    "bytes": 3023
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/BusinessScreenReader.Bars.cs",
+    "sha256": "6c2ea89bb4cba492ce6916fb4a804f7d863434ca51ce260a25e332d194b85d37",
+    "bytes": 14940
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/BusinessScreenReader.cs",
+    "sha256": "81ec40755dd7c7609ff1d3663f01ca145410fd723b6f85043412430a28f21e9d",
+    "bytes": 12095
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/BusinessScreenReader.Readers.cs",
+    "sha256": "fb835f9d4ef317c57f7c56c03da04bf70e9f7ccba08357f4792fbfc582346e0f",
+    "bytes": 19252
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/BusinessStateMerge.cs",
+    "sha256": "7155c2fc6b4f8e45c702e9988fd1ffe13dfc4bc85cd1afd0fa4e3d7e8da8b85e",
+    "bytes": 559
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/ChatReceiptReporter.cs",
+    "sha256": "98ea8f8a0b44392e8ed4a0c0950ac59853edc994c77ea5588e32bf57c6cfd8c2",
+    "bytes": 2259
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/ChatTiming.cs",
+    "sha256": "9088705a49c326b377021955a48a1c9d4c9c2d39bdffe68fd9af499de7c3d831",
+    "bytes": 4431
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/ClientLifetime.cs",
+    "sha256": "cd1de18275a2aea472e1dbac4b80ffda549f54f18c19c0b60375e52fe6b98641",
+    "bytes": 9952
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/CompressedBitmapFrames.cs",
+    "sha256": "63f41038eaa3d46c6777b3e897d7a28c09bc16caa00e0684d0665bc2d42d5618",
+    "bytes": 12806
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/CompressedBitmapFrames.Delta.cs",
+    "sha256": "4e7e47b50d6d030bb71db41e0baa635e7d4758dce0bc0d5d9a10c23731f3814e",
+    "bytes": 5682
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/CompressedBitmapFrames.Pack.cs",
+    "sha256": "542a38af2cee7f278b330a2b81939a7bc7b960e069468483af50e2c9638f71e6",
+    "bytes": 15614
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/CompressedBitmapFrames.Progressive.cs",
+    "sha256": "1bfd51405d1e7a094a6507ef07cc80e7d534f5a7a09f5123948870ee2dc6855e",
+    "bytes": 7204
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/ConfigStore.Business.cs",
+    "sha256": "c55b0551a595124d57170bb6007f3aaef2b599d337e70ebfc2f71c37993a79da",
+    "bytes": 16958
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/ConfigStore.cs",
+    "sha256": "1c9a36331880fbe5c06776200792d294922425420b35148ccaf3edc550334fd1",
+    "bytes": 14314
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/ConnectionDiagnostics.cs",
+    "sha256": "f03e2ce5af35e96c1bccbdbe636dcf662144cb64fa1bfbc40df3bbcc49f946e0",
+    "bytes": 2828
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/CredentialStore.cs",
+    "sha256": "5953ea70a5422fb3679dd95560339137f27dfdd93770af7351e795e33705232a",
+    "bytes": 12499
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/DefaultSettings.json",
+    "sha256": "2fbbd35adcf29a21013461ba32cfb9ad1ba8c3ae9fbccb016ddda39329dc68e7",
+    "bytes": 823
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/DesktopContext.cs",
+    "sha256": "ed5d45b552a9c02dbf3041bfead9507af298c5173997502e57dfdcb46356dc5c",
+    "bytes": 12452
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/DesktopSession.cs",
+    "sha256": "eb916c9bf7282584578fd8ae70f7eae12d07fd3e2f375d679e05fe5af7821968",
+    "bytes": 3367
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/DiscordGatewayClient.cs",
+    "sha256": "a01f94eea7cb96111bc7c66a565322132aa91e27774a0966d9ea8877e87a4e86",
+    "bytes": 11266
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/DiscordGatewayClient.Dispatch.cs",
+    "sha256": "6c16b5765ac4ceabb9b730e3609789f0aaa33683dee48870c314a2ddfb6be744",
+    "bytes": 8628
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/DiscordGatewayClient.History.cs",
+    "sha256": "0aec4e3e4490a7dcd7815c7003e6d758682fb79849de2197a723a73229f439ad",
+    "bytes": 9226
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/DiscordGatewayClient.Lookups.cs",
+    "sha256": "9ae6dfd6358dbfad245ad733c9ada65f515ba1cd264cd113a2dd8ebfcb5e7a14",
+    "bytes": 27425
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/DiscordGatewayClient.Presence.cs",
+    "sha256": "2629f600df922d462317c9748992e140c29e68831d3b21caf71996f31cfc3f08",
+    "bytes": 6996
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/DiscordGatewayClient.Protocol.cs",
+    "sha256": "3ff49bcfc7e33015ec1c89a87252e14f2e78ffbfa1c9855a371b4e7133520400",
+    "bytes": 8633
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/DiscordMessageParser.Authors.cs",
+    "sha256": "84be0e4abd48c6a39c3e2eb051fa604045fb9edba6d65257350ae28c403447b5",
+    "bytes": 5359
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/DiscordMessageParser.Content.cs",
+    "sha256": "3b19ab763fe1fd2aaeffb0464f8d2b50926b50e2e94f7285c36d4a7eeaf029a3",
+    "bytes": 14085
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/DiscordMessageParser.cs",
+    "sha256": "943f15ed90b6ad0f0118ff2665e154d665e9ede29c3bb696ac9c1ea1e07957e9",
+    "bytes": 9357
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/DiscordMessageParser.Media.cs",
+    "sha256": "3e1c78724eb739f671a04739a29ae69a1b1793fb192daa41998258a1e23747c0",
+    "bytes": 19418
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/DiscordMessageParser.Moderation.cs",
+    "sha256": "996b30a05de9f969bd82518ec65f6c4562ab66acfdfe7f7c881df4e9ecb7a1df",
+    "bytes": 5144
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/DiscordMessageParser.References.cs",
+    "sha256": "6fbdc506eb2764496e82c4f2e8304dab84b91e2ac14aef1b254eb330e65c8b1c",
+    "bytes": 9299
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/DiscordTextDisplay.cs",
+    "sha256": "678b128347a1c2771a00edfcee8427c7e9105decbb5e65bd5dec84ddfb4eecc6",
+    "bytes": 1859
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/GameAutoLaunch.cs",
+    "sha256": "2f2755a70ec49a911be959c7b7d3775a11f239a98f59b2d688879697b07e3d2b",
+    "bytes": 8163
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/GameWindowTracker.cs",
+    "sha256": "875fa1d534dd7240609861d7b18e9bc9167a4651eda882717eeb853055312f83",
+    "bytes": 8124
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/HudVisibilityPolicy.cs",
+    "sha256": "e3345ab1336baca84265ca500be904041e9cbd42a2e5fe26f5d1b57e8b886283",
+    "bytes": 449
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/IChatSource.cs",
+    "sha256": "0290ae528a5fecb2fabb88a602b9658a893350e3160bb8c87fd5590d478d67e3",
+    "bytes": 699
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/InstallIntegrity.cs",
+    "sha256": "6b2571188ec16f1916eef50aacfacdd0f10d17d2f2661e37c70692dbaf382059",
+    "bytes": 2220
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/LegacyUpdateRestart.cs",
+    "sha256": "655a9657f07b0b6f4c56aec6d17e0268d1d64cd135d34020745d5aa6a4d2a546",
+    "bytes": 5776
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/MansionBoostTime.cs",
+    "sha256": "d33cb516b7adeaf3abdb7dd55dfece79a69a2e81b4b95123ec5e02ea49bc0d72",
+    "bytes": 686
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/MediaCache.Candidates.cs",
+    "sha256": "4cc5d1f595608c22cb74ff8fe8b304c77ddbe7477b9d38bc542ca9c446d9162e",
+    "bytes": 13725
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/MediaCache.cs",
+    "sha256": "2bcfd2ea4ce44d38defd48cf21752d2afd97d5cb7ff88b3b044c91d0efb6ed6d",
+    "bytes": 27305
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/MediaCache.Decode.cs",
+    "sha256": "db8b046d36b8764fa43dcabbd15c2270965003c40e1f9cba7d1a92c00cb32dc1",
+    "bytes": 37595
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/MediaCache.Download.cs",
+    "sha256": "b8916d4656087c29dd02273ae032c54e12531700caa811c88487ff0eb3477788",
+    "bytes": 29018
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/MediaCache.FramePack.cs",
+    "sha256": "b7666730dfcaf8587c1edd609c4945fe59cfa7c9b210cb4aac41d84d5c29bafd",
+    "bytes": 3153
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/MediaCache.Gif.cs",
+    "sha256": "680e6239f16157c24d9bbbecb783a32372b729369a095551690ffc114f7353cd",
+    "bytes": 11663
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/MediaCache.LiveExport.cs",
+    "sha256": "14ee99b565178f39844d8c51e0ad45c2a196e10ac3ac6f2b98997a9e63fab0b3",
+    "bytes": 3529
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/MediaCache.Load.cs",
+    "sha256": "29cedce77b02862806e38944874be5068c23d355fcf1cc9de8ae4387474f7c2a",
+    "bytes": 18369
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/MediaCache.Progressive.cs",
+    "sha256": "563b04ab4f73798acebb34b502b50b5c2aaa8d5db56603adbd74f8aa8af65b34",
+    "bytes": 3729
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/MediaCache.RenderMetadata.cs",
+    "sha256": "02bda815838cda7a5a5b876ddf444d07d861e0900f8017f5a38aecd8790acd60",
+    "bytes": 999
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/MediaCache.Types.cs",
+    "sha256": "d1c9327e7dc7a6233d7a6bcd0e3564d18f2a9e5eeaf548bdab75c0ccafbac971",
+    "bytes": 9776
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/MediaCache.Webp.cs",
+    "sha256": "851334985cbabd9bdba30435eb21ef69d44239a7c4feeeb217a8113386129d7e",
+    "bytes": 11877
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/MediaFrameDiskCache.cs",
+    "sha256": "97c6886507e56f8b47f0254134e738ca7dcfdcf55feb12073d663ebb4657599a",
+    "bytes": 7714
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/MessageStore.cs",
+    "sha256": "6acd40ea117496e6afcdf0919ba201d9e9f467c444209fe5d91757e7c69c449a",
+    "bytes": 10429
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/MessageStore.Profiles.cs",
+    "sha256": "46ebbac08e7f78c759fca886440e9bed98bcc02620e162f95d1c96152f9e11cf",
+    "bytes": 20994
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/NightclubOcr.ps1",
+    "sha256": "30581f555418ba48b838e997d34e9b65a59479321c5dbb430107cbca8f775bf7",
+    "bytes": 9992
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/NightclubScreenReader.cs",
+    "sha256": "dc13c42100a12d6b9ce502144bec3be295559bce83734c93a759cb833b5c47e7",
+    "bytes": 15819
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/NotificationSound.cs",
+    "sha256": "e5e8294600a66ca69421f4f489bb6579535c65145c0e70b2d3c81f447cc8ca88",
+    "bytes": 1644
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/PortableTokenVault.cs",
+    "sha256": "d1c4c5a8af4e2f4325d39e1594714655023ab895b5aea44eb537889f057d3695",
+    "bytes": 7526
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/RecoveryCoordinator.cs",
+    "sha256": "b111e7b0b5e9f636bebd3a04203d315234097831677f5d169c9411ff7bdbefd5",
+    "bytes": 11205
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/RecoveryPolicyClient.cs",
+    "sha256": "5f2ae453506fa311f8ada756086f99faf0c1cc7d32e66a8394676c9a98949cd6",
+    "bytes": 2670
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/RecoveryReleaseFallback.cs",
+    "sha256": "a0e9b53cb240cdbccbdaeeafdfa3967e44b90f247d25f9a0b5e5d76c23b525d1",
+    "bytes": 1475
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/RecoveryStateStore.cs",
+    "sha256": "0d77777c31e42a7c67fd3e4caf9c6d4e026a295b34e855df323680fdaf41d71b",
+    "bytes": 3079
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/RelayChannelCatalog.cs",
+    "sha256": "68dc4fff4b60bb3d4db1c2f6277f771824953aeb4d65ec8c113fcba98ec9a0f6",
+    "bytes": 4136
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/RelayChannelPresets.cs",
+    "sha256": "1a5096dbd3389fd4bd36a284f2491dc27dd5923159e9e8dbfdaaf56c64e7d069",
+    "bytes": 1999
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/RelayClient.cs",
+    "sha256": "b488d78726bbcd76dd5de2895aaee8cae8d043e29f0559376909bc81c0a36f9c",
+    "bytes": 30556
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/RelayMediaSource.cs",
+    "sha256": "077a40406838c907b8799f41ff859e0caa3ec4a0a2d5d41fe2edd4d4d66862d3",
+    "bytes": 1198
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/RelayProtocol.cs",
+    "sha256": "5b667217c47d7bf3171a0ee34f31009c7c3ddbd01271e7d0a5cb424641abf56e",
+    "bytes": 1491
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/RelaySessionRetry.cs",
+    "sha256": "b8413abf25f3a3a4f21e4cb5e1d63ba08ec5cd1a366ccec70bde607c60be37ed",
+    "bytes": 1740
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/RelaySessionStore.cs",
+    "sha256": "043685db27928e45466f97d8fdbd59a562f51df43d66e65476cbf29e5db83d73",
+    "bytes": 4232
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/RelayTransport.cs",
+    "sha256": "d1fc4d52e16ccc62320170365e29ee8bde24ec5da2bac776753d22085aafcfd4",
+    "bytes": 1103
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/ReleaseNotes.cs",
+    "sha256": "7860eba4e6d1782de7aba2ea9c60977a04b4338a7eac6a4a6c2fe745c19b5f31",
+    "bytes": 1232
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/ReleaseNotes.json",
+    "sha256": "203fa9d0ad10ec368c61a521d7bb6ff7934e837efca6770756a46b84c55ee01d",
+    "bytes": 136
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/ResourceDiagnostics.cs",
+    "sha256": "c3d3d1f00dd2691cdc5aaff88c454d6211469fc0978811c58ad40546161248a8",
+    "bytes": 4557
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/SaleIdleVisibility.cs",
+    "sha256": "0a26e2f722ba42d63ba9c9538c64f59d71b89cdabb1356c14a717527473028b0",
+    "bytes": 1373
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/SaleSequence.cs",
+    "sha256": "5825044bed6b930a662af819991c9dab03f462bf600a5d2df7dd502258e5ec20",
+    "bytes": 8929
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/SessionPopulationPolicy.cs",
+    "sha256": "ce72676ccb386b5bd502f4a634e030767786560ecee5e04ee42abbca72b1dde8",
+    "bytes": 647
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/ShutdownSignal.cs",
+    "sha256": "965357c167727354d11e5f03f611b85386abeff86ef39fd2f5438e0d5dd38ca2",
+    "bytes": 842
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/SnapshotBodyReader.cs",
+    "sha256": "78f386b53938eea7807d919c6c879a8120b9efdeb0fd4fd6aebfcd6fae238d45",
+    "bytes": 3016
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/StartupHealth.cs",
+    "sha256": "6b3b1666bd4022284df026709906876030edf2591eb8b214d68ef9e92cb50749",
+    "bytes": 2399
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/StartupUpdate.cs",
+    "sha256": "45bf30f6573c4590f0bec62f08534f14599e86e2602e62afd86f0683324fdaa6",
+    "bytes": 3354
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/SwitchableChatSource.cs",
+    "sha256": "4df16dfa8e14787c12dd796599cb4c8a85c17891f3e982cefc8affcc3009d7e9",
+    "bytes": 2399
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/TaskbarIdentity.cs",
+    "sha256": "4f2d9b0d176701ce1d691d5961c040a0f6d97da5528d36b20bba17063b990fdb",
+    "bytes": 6828
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/TransientImageAllocator.cs",
+    "sha256": "1449c734be77a0f5cac97f2b68572ce2e9649ee7952257d96dc2f7cd3ad94a1c",
+    "bytes": 2962
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/UpdatePublicKey.xml",
+    "sha256": "50480e563789df5590dfa9256385fd9722233c495bca4ef3248bea054f6bc2eb",
+    "bytes": 583
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Services/WatcherExecutable.cs",
+    "sha256": "ce5de5282499fda4f76f7cbfd6b99aacf638ace3d4a519bb8bd0443fb27c36e4",
+    "bytes": 2596
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ChannelHotkeyRegistration.cs",
+    "sha256": "f43ca48c80983fadaa34b90d65da4849c32ffb402f03a2ac0078e71bda5d4545",
+    "bytes": 1257
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ChannelPickerForm.cs",
+    "sha256": "0ed2e93eafc98b4464a9e5f35afa29a5f85b04c6d56287c39b6f6d180bdf0e8b",
+    "bytes": 7009
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ChannelSelectionInput.cs",
+    "sha256": "4e60e5b331a3449870658ecce7639362f585b6614773934841fe859c3a764bd4",
+    "bytes": 3099
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ConfigForm.BusinessCharacters.cs",
+    "sha256": "e289782d58e7a778631e619ae621062e597c15dfe74da400abefe9680006ee7e",
+    "bytes": 9171
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ConfigForm.BusinessHud.cs",
+    "sha256": "3be7ea2be609c83d13b1e58af7178e65e2180fccf68feb309fddc9ce0fc5e5c6",
+    "bytes": 10044
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ConfigForm.BusinessLive.cs",
+    "sha256": "616e40d34ea3793523824384ed47221ea0bbfdf8ca1ec1b1cfe17d4a918a97a1",
+    "bytes": 16047
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ConfigForm.BusinessPages.cs",
+    "sha256": "df002b8feba85fcf458783904c0ab7a256716abdddd7b0b0445fc1bfb35fe17b",
+    "bytes": 55223
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ConfigForm.BusinessStatus.cs",
+    "sha256": "8fadd45b2920575de6de277bcddbd9d28b4acd91b67bf5c62f15e26e00c3df03",
+    "bytes": 23022
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ConfigForm.Channels.cs",
+    "sha256": "2d6a0c91411e25a60eda637c34da37f649429de9ac51a1bf1e46b4834e90bcf3",
+    "bytes": 9578
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ConfigForm.Controls.cs",
+    "sha256": "621c01e23310c48e0836464ed282a8521d8152e40104900ce5efc72107b0493d",
+    "bytes": 19825
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ConfigForm.cs",
+    "sha256": "73fd153b242a771c9cb8ba8b63483992c4b681276277697920ca27f065178fc7",
+    "bytes": 69586
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ConfigForm.Import.cs",
+    "sha256": "6a2ff209e567b71be85b0933ce573ac296b41dc165730ae7de3a56f844134da3",
+    "bytes": 5014
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ConfigForm.InitialTokenDialog.cs",
+    "sha256": "0530078b99b84c042d5cb3147c63f54d1973a9eae951f4222a54bd8aa1f1b70a",
+    "bytes": 5909
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ConfigForm.Inputs.cs",
+    "sha256": "6e1a68a41672d6e084df67edade9cc0e89a5eaa97a76ac466e607516401de503",
+    "bytes": 23361
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ConfigForm.Layout.cs",
+    "sha256": "cb6d6b9c383d73434b11ac2ed01e7141e8b0fd891ebfba8e80a1ec83830a67d6",
+    "bytes": 23359
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ConfigForm.Nightclub.cs",
+    "sha256": "56cb7a1e2e14c593d71dc6832ddcab697704ecda4bd8430b64bca424bf4859d6",
+    "bytes": 32810
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ConfigForm.Sale.cs",
+    "sha256": "c11fdafde2d1ba8509e208626a2e7cab34815a7905c86fc6797c731f37e35465",
+    "bytes": 3886
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ConfigForm.Theme.cs",
+    "sha256": "d3efcdb4fc4760665885c362740604dfccbe85f16be3d32a9ffb67575efbe1b1",
+    "bytes": 13738
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/ConfigForm.UiScaler.cs",
+    "sha256": "1629183c0b1d61721ba4f23b9437711f6a5d4892da3edbb35a1507c128c00ec3",
+    "bytes": 8373
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/HudPositionEditor.cs",
+    "sha256": "9682852df0ecdef0de4a46550fbeec59583aad14f2b077aec81035485d96db91",
+    "bytes": 7486
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/OverlayForm.Business.cs",
+    "sha256": "899b27be28827e1bcc9983bee6b755dd580c5468b55100d5912ecc8caca69e73",
+    "bytes": 17639
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/OverlayForm.CaptureGuard.cs",
+    "sha256": "2ae73e68aa1beda877b53ebde9203415edaaec57302c955543b6fb2d0033f642",
+    "bytes": 11662
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/OverlayForm.ChannelPicker.cs",
+    "sha256": "d2ce2937f72aeb49bd8a020b39340911244d8a49b5b0f44cedd36ad38bfcbe22",
+    "bytes": 4711
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/OverlayForm.ConfigReload.cs",
+    "sha256": "82d3a9c92123c4c55cc396ff09ef71a126728b07f64b7f5bccb830e36d004be0",
+    "bytes": 16080
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/OverlayForm.cs",
+    "sha256": "94f3df4a57044627cd5378860dc281a9bff32b9d4e7312c4eae16a459b2c4044",
+    "bytes": 27148
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/OverlayForm.Input.cs",
+    "sha256": "20f4ce0cbce0206b7bb10a06124f3de554cf13405850976e0689a5552ce75a90",
+    "bytes": 9749
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/OverlayForm.LayeredWindow.cs",
+    "sha256": "03e6a4cc26dabe9cd0b5a14c3610513e68fdbf61948944a3f5c598b0aa0667cc",
+    "bytes": 6582
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/OverlayForm.Position.cs",
+    "sha256": "dc22c0ff434d17f042ce55266a8764b527b7fab0580a90a25b7f1952574e64c5",
+    "bytes": 8403
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/OverlayForm.Rendering.cs",
+    "sha256": "8ca0e40d0d5991c1a759697ba5a20746c7fe688d0e49e44d957a54a7a2f4621d",
+    "bytes": 15864
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/PatchNotesForm.cs",
+    "sha256": "2ecae9221684bfbe9c8b8a3f0d4d9c6e0d64e5117b5d314025c15df1b6f2e554",
+    "bytes": 1564
+  },
+  {
+    "path": "client/src/DiscordChatHUD/Windows/UpdateForm.cs",
+    "sha256": "da1a2e6a22a8566f8e84e314396e7c30caa109d4263f71331eafa50f2c4e71da",
+    "bytes": 4898
+  },
+  {
+    "path": "client/tests/PublicSource/Program.cs",
+    "sha256": "f37b6ea6e83884cff16b56d3a058b0f5140e2e977713f509773cb604b7c192d0",
+    "bytes": 2674
+  },
+  {
+    "path": "client/tests/PublicSource/PublicSource.csproj",
+    "sha256": "61074badc704e6d09e5aeb95cf4101c68b083c72af217977e23f033eb748b81a",
+    "bytes": 418
+  },
+  {
+    "path": "CODE_SIGNING.md",
+    "sha256": "0ba62b60e96733431421b252c6a177d48acd55243d9dcb574521b1c76b13e89f",
+    "bytes": 1251
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "5d16500af98437d0066a7c9342d9d9107c3b9edc2748b90155129e61e24ec6fd",
+    "bytes": 1105
+  },
+  {
+    "path": "licenses/Apache-2.0.txt",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358
+  },
+  {
+    "path": "licenses/dotnet-runtime-LICENSE.txt",
+    "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+    "bytes": 1139
+  },
+  {
+    "path": "licenses/dotnet-runtime-NOTICES.txt",
+    "sha256": "6d15e10a101c6bfff2ab4429ed061bf76c456fc4b23ad6b03e0d0f8377148a21",
+    "bytes": 78041
+  },
+  {
+    "path": "licenses/dotnet-windowsdesktop-LICENSE.txt",
+    "sha256": "a89886665765362eb77e0f8e26602c924520041d1711b2eedc136434fe4d01ab",
+    "bytes": 1137
+  },
+  {
+    "path": "licenses/ImageSharp-LICENSE.txt",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358
+  },
+  {
+    "path": "PREVIEW334_RESULT.md",
+    "sha256": "17dfe8225477cdce66f6d2cf4b58a3a1e31b39fadcee29c273d56baeb43a2d9c",
+    "bytes": 1769
+  },
+  {
+    "path": "PRIVACY.md",
+    "sha256": "d565bf52137e38c9d4f185e0522da784c13ecc9cc9c1973d5580dc99025f3ef5",
+    "bytes": 1888
+  },
+  {
+    "path": "README.md",
+    "sha256": "2daab7049f63a91d11827ce05eaa7d4f25677512e3fda5b548bea0c28f8587ef",
+    "bytes": 4516
+  },
+  {
+    "path": "THIRD_PARTY_NOTICES.md",
+    "sha256": "d46e9f08dcd02e2b6880cf4794680e29887377d7ab20f40491b0895152a70f58",
+    "bytes": 1349
+  },
+  {
+    "path": "tools/Generate-Assets.ps1",
+    "sha256": "f12c57791d80094e6046a7724b7d58ffe10dd59260c49e1ed4b08977572a755e",
+    "bytes": 2082
+  },
+  {
+    "path": "Verify.ps1",
+    "sha256": "62c9e68d84202dbb319030e1e5f277b41c0552fc79e24f85581f6c0d4cbf746d",
+    "bytes": 1075
+  }
+]

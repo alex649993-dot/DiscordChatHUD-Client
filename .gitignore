@@ -1,0 +1,15 @@
+**/bin/
+**/obj/
+artifacts/
+**/Data/
+*.log
+*.previous
+*.zip
+*.bin
+*.pfx
+*.p12
+*.key
+.env*
+relay-client.json
+relay-private*
+**/Assets/Watcher.exe.gz
